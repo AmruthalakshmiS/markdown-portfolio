@@ -1,6 +1,6 @@
 :heart: :sparkles:
-* chocolates 
-* ice creams
-  * vanilla
-  * chocolate
+* UI/UX
+* Technical
+  * Web development
+  * App development
 :smile:
